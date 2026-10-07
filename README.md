@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoT186
-- 👀 I’m interested in Artificial Intelligence and programming
+- 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tommachefert78240@gmail.com
